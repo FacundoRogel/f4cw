@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm F4cw
 
-<!--
-**F4cw/f4cw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Full Stack Developer** passionate about creating dynamic and responsive web applications.  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **JavaScript**, **React**, **Node.js**
+- 🛠️ Exploring projects that combine both frontend and backend logic
+- 🎯 My goal is to build clean, efficient, and user-friendly web applications
+- 💡 Always curious and open to learning new tools and frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Visual Studio Code
+
+
+
+
+
+
+
+
